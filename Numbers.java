@@ -37,17 +37,6 @@ public class Numbers{
 		}
 		System.out.print("The two adjacent numbers with the greatest product are " + arrayP + " and " + arrayO + "\n");
 		System.out.print("The value of the product of those two adjacent numbers is " + newSum + "\n");
-		
 			
-			
-			
-		
-		
 	}
-	
-	
-	
-	
-	
-	
 }
